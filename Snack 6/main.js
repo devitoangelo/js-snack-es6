@@ -33,4 +33,6 @@ let falliSubitiPunti = squadreDiCalcio.map(function({nome, ...rest}){
 return rest
 })
 
+
+
 console.log(falliSubitiPunti);
